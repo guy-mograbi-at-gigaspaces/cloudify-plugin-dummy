@@ -1,0 +1,8 @@
+##################################################################################
+# Cloudify Fabric built in types and plugins definitions.
+##################################################################################
+plugins:
+    fabric:
+        executor: central_deployment_agent
+        source: https://github.com/guy-mograbi-at-gigaspaces/cloudify-plugin-dummy/archive/master.zip
+

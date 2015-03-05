@@ -1,1 +1,1 @@
-# cloudify-plugin-dummy
+This is a plugin I wrote for testing
