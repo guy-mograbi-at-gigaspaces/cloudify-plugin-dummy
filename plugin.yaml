@@ -4,5 +4,5 @@
 plugins:
     dummy:
         executor: central_deployment_agent
-          source: https://github.com/guy-mograbi-at-gigaspaces/cloudify-plugin-dummy/archive/master.zip
-          install_arguments: -r requirements.txt
+        source: https://github.com/guy-mograbi-at-gigaspaces/cloudify-plugin-dummy/archive/master.zip
+        install_arguments: -r requirements.txt
